@@ -16,5 +16,11 @@
     "name": "kaalu",
     "age": "1",
     "desc": "Really long text to check the overflow of the adoptions card"
+  },
+  {
+    "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1752738728313-unnamed.jpg",
+    "name": "kaalu",
+    "age": "1",
+    "desc": "Really long text to check the overflow of the adoptions card. Even more long text to further check the overflow."
   }
 ]

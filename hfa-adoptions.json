@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1752734087111-unnamed.jpg",
-    "name": "kaalu",
-    "age": "1",
-    "desc": "Stunning, handsome, loving"
-  },
-  {
     "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1752734260562-WhatsApp Image 2025-07-01 at 11.54.09_9a83e68c.jpg",
     "name": "oscar",
     "age": "2",
@@ -25,12 +19,6 @@
   },
   {
     "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1752736141917-WhatsApp+Image+2025-07-01+at+11.54.09_9a83e68c.jpg",
-    "name": "oscar",
-    "age": "2",
-    "desc": "Dumb"
-  },
-  {
-    "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1752736154178-WhatsAppImage2025-07-01at11.54.09_9a83e68c.jpg",
     "name": "oscar",
     "age": "2",
     "desc": "Dumb"

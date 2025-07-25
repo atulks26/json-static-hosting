@@ -22,5 +22,11 @@
     "name": "kaalu",
     "age": "1",
     "desc": "Really long text to check the overflow of the adoptions card. Even more long text to further check the overflow."
+  },
+  {
+    "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1753442190850-pp,504x498-pad,600x600,f8f8f8.png",
+    "name": "Test",
+    "age": "1",
+    "desc": "Test"
   }
 ]

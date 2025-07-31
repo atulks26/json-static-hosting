@@ -11,7 +11,7 @@
     "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1752737383751-unnamed.jpg",
     "name": "kaalu",
     "age": "1",
-    "desc": "Majestic"
+    "desc": "Majestic",
     "gender": "Male",
     "note": "Example note"
   },
@@ -19,7 +19,7 @@
     "url": "https://winter-cloud-07be.atulksingh04.workers.dev/images/1753502745239-chimecho(momota_pen).jfif",
     "name": "Test",
     "age": "1",
-    "desc": "Test"
+    "desc": "Test",
     "gender": "Female",
     "note": "Example note"
   }

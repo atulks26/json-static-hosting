@@ -4,7 +4,7 @@
   "vet": "650",
   "release": "490",
   "meal1": "2 meals",
-  "meal1p": 1500,
+  "meal1p": "1500",
   "meal2": "2 meals + Snacks",
-  "meal2p": 2000
+  "meal2p": "2000"
 }

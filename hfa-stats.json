@@ -1,8 +1,8 @@
 {
-  "rescue": "1000",
-  "adoption": 425,
-  "vet": 650,
-  "release": 490,
+  "rescue": "850",
+  "adoption": "425",
+  "vet": "650",
+  "release": "490",
   "meal1": "2 meals",
   "meal1p": 1500,
   "meal2": "2 meals + Snacks",
